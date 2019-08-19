@@ -1,5 +1,6 @@
 def roll_call_dwarves(dwarves)
-  dwarves.map.sort.join(" ")
+  dwarves.each do
+    p 
 end
 
 def summon_captain_planet# code an argument here
